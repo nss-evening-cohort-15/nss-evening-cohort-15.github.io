@@ -7,6 +7,12 @@
             "link": "https://www.javascript.com/"
         },
         {
+            "id": 4,
+            "name": "Git",
+            "image": "git.png",
+            "link": "https://git-scm.com/"
+        },
+        {
             "id": 5,
             "name": "Github",
             "image": "github.png",
