@@ -5,7 +5,7 @@ $(function () {
 
 
 $.ajax({
-  url: "data/cohort.json"
+  url: "/data/cohort.json"
 }).done(cohortMembers)
   .fail(function (error) {
     console.log("error", error);
